@@ -1,0 +1,8 @@
+### Firebase ###
+**/node_modules/*
+
+# Optional npm cache directory
+.npm
+
+# 추가
+package-lock.json
